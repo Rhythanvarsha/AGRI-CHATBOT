@@ -1,6 +1,6 @@
 ## Chatbot to help Indian Farmers get answers for their queries
 
-###### Author: Sulekha Aloorravi
+###### Author: Rhythan Varsha
 
 ### This is a step-by-step tutorial to develop an Agricultural chatbot using Rasa
 
